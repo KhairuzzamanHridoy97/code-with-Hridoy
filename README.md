@@ -1,7 +1,13 @@
 # Assignment 9 About Educational Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Using Tech
+  *React Router
+  *React Bootstrap
+### Student Can Learn Free Programming Language in this website.
+In this website student can learn free web devlopment. 
 
+### Developer can get cheatsheet
+In this site developer can get  free cheatsheet
 ## Available Scripts
 
 In the project directory, you can run:
@@ -65,6 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
