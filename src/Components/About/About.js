@@ -9,7 +9,7 @@ const About = () => {
             <h2 className="welcome-about">I am Hridoy</h2>
             <p><small>Confused on which course to take? I have got you covered. Browse courses and find out the best course for you. Its free! Code With Hridoy is my attempt to teach basics and those coding techniques to people in short time which took me ages to learn</small></p>
             <div>
-                <h3>Are you ready to Join With Code With Our Team ??</h3>
+                <h3>Are you ready to Join  With Our Team ??</h3>
                 <h4>Please Give your Info here....</h4>
                 <Container>
                     <Form>
